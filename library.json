@@ -1,0 +1,21 @@
+{
+  "name": "NTPClientAdvanced",
+  "version": "1.0.0",
+  "description": "Multi-server NTP client for ESP32 with automatic best-server selection, for WiFi and Ethernet.",
+  "keywords": "ntp, sntp, time, clock, esp32, wifi, ethernet, asyncudp, freertos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nourbakhsh-Rad/NTPClientAdvanced.git"
+  },
+  "authors": [
+    {
+      "name": "Sh. Nourbakhsh Rad",
+      "email": "Sh.Nourbakhsh@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "headers": "NTPClientAdvanced.h"
+}
